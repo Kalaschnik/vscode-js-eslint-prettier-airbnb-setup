@@ -1,0 +1,1 @@
+# vscode-js-eslint-prettier-airbnb-setup
